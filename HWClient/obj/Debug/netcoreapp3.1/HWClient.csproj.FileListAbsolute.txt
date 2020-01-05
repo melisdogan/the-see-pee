@@ -20,3 +20,14 @@
 /home/melis/Desktop/HWClient/obj/Debug/netcoreapp3.1/HWClient.AssemblyInfo.cs
 /home/melis/Desktop/HWClient/obj/Debug/netcoreapp3.1/HWClient.dll
 /home/melis/Desktop/HWClient/obj/Debug/netcoreapp3.1/HWClient.pdb
+/home/melis/Desktop/CNetProgHW2/HWClient/bin/Debug/netcoreapp3.1/HWClient
+/home/melis/Desktop/CNetProgHW2/HWClient/bin/Debug/netcoreapp3.1/HWClient.deps.json
+/home/melis/Desktop/CNetProgHW2/HWClient/bin/Debug/netcoreapp3.1/HWClient.runtimeconfig.json
+/home/melis/Desktop/CNetProgHW2/HWClient/bin/Debug/netcoreapp3.1/HWClient.runtimeconfig.dev.json
+/home/melis/Desktop/CNetProgHW2/HWClient/bin/Debug/netcoreapp3.1/HWClient.dll
+/home/melis/Desktop/CNetProgHW2/HWClient/bin/Debug/netcoreapp3.1/HWClient.pdb
+/home/melis/Desktop/CNetProgHW2/HWClient/obj/Debug/netcoreapp3.1/HWClient.csprojAssemblyReference.cache
+/home/melis/Desktop/CNetProgHW2/HWClient/obj/Debug/netcoreapp3.1/HWClient.AssemblyInfoInputs.cache
+/home/melis/Desktop/CNetProgHW2/HWClient/obj/Debug/netcoreapp3.1/HWClient.AssemblyInfo.cs
+/home/melis/Desktop/CNetProgHW2/HWClient/obj/Debug/netcoreapp3.1/HWClient.dll
+/home/melis/Desktop/CNetProgHW2/HWClient/obj/Debug/netcoreapp3.1/HWClient.pdb

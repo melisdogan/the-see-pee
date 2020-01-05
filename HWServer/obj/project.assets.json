@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/melis/Desktop/HWServer/HW.csproj",
+      "projectUniqueName": "/home/melis/Desktop/CNetProgHW2/HWServer/HW.csproj",
       "projectName": "HW",
-      "projectPath": "/home/melis/Desktop/HWServer/HW.csproj",
+      "projectPath": "/home/melis/Desktop/CNetProgHW2/HWServer/HW.csproj",
       "packagesPath": "/home/melis/.nuget/packages/",
-      "outputPath": "/home/melis/Desktop/HWServer/obj/",
+      "outputPath": "/home/melis/Desktop/CNetProgHW2/HWServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/melis/.nuget/NuGet/NuGet.Config"

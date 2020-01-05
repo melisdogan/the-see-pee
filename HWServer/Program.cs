@@ -51,10 +51,11 @@ class StreamTcpSrvr
       ns.Close();
    }
    
-private static String readMessageBoundary(NetworkStream ns){
+   private static String readMessageBoundary(NetworkStream ns){
       string next;
       string message = "";
       string temp = "";
+      string[] marker = {"#","#","!","#","#",">"};
       byte[] data = new byte[1];
       while(true){
          data[0] = (byte)ns.ReadByte();
@@ -65,11 +66,16 @@ private static String readMessageBoundary(NetworkStream ns){
                data[0] = (byte)ns.ReadByte();
                next = Encoding.ASCII.GetString(data);
                temp += next;
+               if (marker[i].Equals(next)){
+                  if (i == 5){
+                     return message;
+                  }
+               }
+               else {
+                  message += temp;
+                  break;
+               }
             }
-            if (temp.Equals("<##!##>")){
-               return message;
-            }
-            else message += temp;
          }
          else message += next;
       }

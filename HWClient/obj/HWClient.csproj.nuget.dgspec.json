@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/melis/Desktop/HWClient/HWClient.csproj": {}
+    "/home/melis/Desktop/CNetProgHW2/HWClient/HWClient.csproj": {}
   },
   "projects": {
-    "/home/melis/Desktop/HWClient/HWClient.csproj": {
+    "/home/melis/Desktop/CNetProgHW2/HWClient/HWClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/melis/Desktop/HWClient/HWClient.csproj",
+        "projectUniqueName": "/home/melis/Desktop/CNetProgHW2/HWClient/HWClient.csproj",
         "projectName": "HWClient",
-        "projectPath": "/home/melis/Desktop/HWClient/HWClient.csproj",
+        "projectPath": "/home/melis/Desktop/CNetProgHW2/HWClient/HWClient.csproj",
         "packagesPath": "/home/melis/.nuget/packages/",
-        "outputPath": "/home/melis/Desktop/HWClient/obj/",
+        "outputPath": "/home/melis/Desktop/CNetProgHW2/HWClient/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/melis/.nuget/NuGet/NuGet.Config"
